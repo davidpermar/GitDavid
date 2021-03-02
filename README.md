@@ -1,14 +1,14 @@
 # GitDavid
-- # Introduction:
+- ### Introduction:
   
-  What the project does
+  _What the project does_
   
-  Why the project is useful
+  _Why the project is useful_
   
-- # Description:
+- ### Description:
   
-  How users can use the project
+  _How users can use the project_
   
-  Where can users receive
+  _Where can users receive_
   
-  Who can they contact
+  _Who can they contact_
