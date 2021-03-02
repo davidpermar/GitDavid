@@ -1,11 +1,11 @@
 # GitDavid
-- Introduction:
+- #Introduction:
   
   What the project does
   
   Why the project is useful
   
-- Description:
+- #Description:
   
   How users can use the project
   
